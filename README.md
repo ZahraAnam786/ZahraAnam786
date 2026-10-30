@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,react,ts,jquery,tailwind,bootstrap,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,postgres,aws,docker,redis,py,fastapi,c,java,mysql,vscode,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,react,ts,jquery,tailwind,bootstrap,html,css,github,git,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,postgres,aws,docker,redis,py,fastapi,c,java,mysql" /><br>
 </div>
 
 <br/>
@@ -42,7 +42,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zahraanam786/zahraanam786/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZahraAnam786/ZahraAnam786/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -53,7 +53,7 @@
 <br>
 <div align=center>
 
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahraanam786&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ZahraAnam786&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/><br/>

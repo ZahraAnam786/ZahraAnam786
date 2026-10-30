@@ -1,15 +1,16 @@
-  <img src="https://general-pusher-cms.s3.amazonaws.com/blog/netreact_ce7fbdc765.jpg" width="100%" height="200px" />
+<img src="https://general-pusher-cms.s3.amazonaws.com/blog/netreact_ce7fbdc765.jpg" width="100%" height="200px" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Syeda+Anam+Zahra!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Full-Stack Developer — ASP.NET Core | Angular | React | AI</h3>
 
 <br/>
 
-- 👨🏻‍💻 Full-Stack Web Developer
-- 🧠 Extensive knowledge and experience in ASP.Net, SQL, React.js, Bootstrap, C#, Node, HTML, CSS, and JavaScript. I use Git and GitHub for effective collaboration and version control.
+- 👨🏻‍💻 Full-Stack Web Developer with 3+ years of experience
+- 🧠 Extensive knowledge and experience in ASP.NET Core, C#, Angular, React.js, TypeScript, SQL Server, PostgreSQL, Entity Framework, Node, Tailwind CSS, Bootstrap, HTML, CSS, and JavaScript. I use Git, GitHub and AWS for CI/CD, collaboration and version control.
+- 🤖 Also building AI apps: RAG, LLM function calling, agents and vector databases (Python, FastAPI, ChromaDB, Gemini API)
 - 🤔 Always learning and experimenting
 - 🛣️ Demonstrated expertise in time management, leadership, and collaboration
 - ✨ Solve practical, real-world problems
@@ -31,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,jquery,bootstrap,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,mysql,vscode,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,react,ts,jquery,tailwind,bootstrap,html,css,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,postgres,aws,docker,redis,py,fastapi,c,java,mysql,vscode,visualstudio" /><br>
 </div>
 
 <br/>
@@ -41,7 +42,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zahraanam786/zahraanam786/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -52,9 +53,7 @@
 <br>
 <div align=center>
 
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahraanam786&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/><br/>
-
-
